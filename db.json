@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "demo",
+      "password": "demo"
+    },
+    {
+      "username": "buff",
+      "password": "jdjsj",
+      "id": 2
+    },
+    {
+      "username": "hbygyt",
+      "password": "gvbug",
+      "id": 3
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "userId": 1,
+      "company": "Example Co",
+      "role": "Frontend Developer",
+      "status": "Applied",
+      "dateApplied": "2025-07-10",
+      "details": "React + TypeScript role. Remote possible."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "company": "Acme Corp",
+      "role": "Backend Developer",
+      "status": "Interviewed",
+      "dateApplied": "2025-06-01",
+      "details": "Node.js, PostgreSQL."
+    }
+  ]
+}
